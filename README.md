@@ -4,7 +4,7 @@
 
 - 🌱 Currently learning JavaScript, React, Node.js & PostgreSQL
 - 🔨 Building projects to sharpen my coding skills
-- 🎯 Goal: Become a good developer
+- 🎯 Goal: Become a professional developer
 - 📍 Indonesia
 
 ### 🛠️ Tech Stack
@@ -17,14 +17,13 @@
 ### 📂 Featured Projects
 
 - 🏨 Hotel Finder
-- 🏺 Gelar Archive
+- 🏺 Gelar Guci Archive
 - 🧁 Cake Shop Website
 - 📝 List Maker
 
 ---
 
 *Learning, building, and improving every day.*
-
 <!--
 **ridhakurfi/ridhakurfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
