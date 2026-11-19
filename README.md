@@ -4,7 +4,7 @@
 
 - 🌱 Currently learning JavaScript, React, Node.js & PostgreSQL
 - 🔨 Building projects to sharpen my coding skills
-- 🎯 Goal: Become a professional developer
+- 🎯 Goal: Become a good developer
 - 📍 Indonesia
 
 ### 🛠️ Tech Stack
